@@ -4,7 +4,7 @@
 	         AnyLogic Project File 
 *************************************************	         
 -->
-<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.0.4.201703301625" AlpVersion="8.0.4">
+<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.0.5.201704071710" AlpVersion="8.0.4">
 <Model>
 	<Id>1513516584907</Id>
 	<Name><![CDATA[SociometryModel]]></Name>
@@ -297,6 +297,45 @@
 				</EmbeddedObject>
 			</EmbeddedObjects>
 
+			<Shapes>
+				<Path>
+					<Id>1513523192160</Id>
+					<Name><![CDATA[path]]></Name>
+					<X>350</X><Y>180</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>2</LineWidth>
+					<PathType>dashedLine</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">
+							1
+						</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>17.8</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>50</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>73.7</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>30</X><Y>60</Y><Z>0</Z></Point>
+						<Point><X>6.3</X><Y>60</Y><Z>0</Z></Point>
+						<Point><X>55</X><Y>60</Y><Z>0</Z></Point>
+						<Point><X>80</X><Y>60</Y><Z>0</Z></Point>
+						<Point><X>55</X><Y>60</Y><Z>0</Z></Point>
+						<Point><X>80</X><Y>60</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>true</Bidirectional>
+				</Path>
+			</Shapes>
 
 		</ActiveObjectClass>
 		<!--   =========   Active Object Class   ========  -->
